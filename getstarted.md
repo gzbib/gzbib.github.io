@@ -45,7 +45,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
 .gs-intro { 
      margin-top: 100px;
      margin-bottom: 100px;
-     padding-left: 30px;
+     padding-left: 10px;
      padding right: 30px;
      text-align: left;
      }
@@ -84,7 +84,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
 <style>
 
 .gs-section-03 h3 { 
-     color: red }
+     color: white }
 
 .gs-section-03 p {
      font-size: 15px;
