@@ -1,6 +1,10 @@
+<div class="gs-intro" markdown="1">
+
 Getting started is *literally* as easy as 1-2-3 :smile:
 
 Scroll down to see the steps involved, but here is a 40-second video just as a reference as you work through the steps. If you don't already have a [GitHub account](https://github.com/join), you'll need to sign up.
+
+</div>
 
 ![Installation steps](assets/img/install-steps.gif)
 
@@ -35,6 +39,24 @@ Note that in the video above I only edited one setting in the `_config.yml` file
 After you save your changes to the `_config.yml` file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `https://<yourusername>.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
 
 Note that this was the easy way to *create* your website, but it does come at a cost: when Beautiful Jekyll gains new features in the future, *updating* your website to include all the latest features is cumbersome. See the [FAQ](https://beautifuljekyll.com/faq/#updating) for help with upgrading in the future.
+
+<style>
+
+.gs-intro { 
+     margin-top: 100px;
+     margin-bottom: 100px;
+     padding-left: 30px;
+     padding right: 30px;
+     text-align: justify;
+     }
+
+.gs-intro p {
+     line-height: 1.6
+     padding-bottom: 30px ;
+}
+
+</style>
+
 
 
 <style>
