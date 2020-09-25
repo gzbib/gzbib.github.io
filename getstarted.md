@@ -47,7 +47,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
      margin-bottom: 100px;
      padding-left: 30px;
      padding right: 30px;
-     text-align: justify;
+     text-align: left;
      }
 
 .gs-intro p {
