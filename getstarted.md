@@ -1,3 +1,9 @@
+<div class="gs" markdown="1">
+
+Build your WEBSITE
+
+</div>
+
 <div class="gs-intro" markdown="1">
 
 Build your WEBSITE
@@ -94,3 +100,19 @@ Note that this was the easy way to *create* your website, but it does come at a 
 }
 
 </style>
+
+
+<style>
+
+.gs { 
+     color: darkgray }
+
+.gs {
+     font-size: 45px;
+     font-family: Courier New;
+}
+
+</style>
+
+
+
