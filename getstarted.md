@@ -75,7 +75,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
 .gs-section-02 h3 { 
      color: green }
 
-.gs-section-01 p {
+.gs-section-02 p {
      font-size: 20px;
 }
 
@@ -86,7 +86,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
 .gs-section-03 h3 { 
      color: red }
 
-.gs-section-01 p {
+.gs-section-03 p {
      font-size: 15px;
 }
 
