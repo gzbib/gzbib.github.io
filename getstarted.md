@@ -6,7 +6,6 @@ Build your WEBSITE
 
 <div class="gs-intro" markdown="1">
 
-Build your WEBSITE
 
 Getting started is *literally* as easy as 1-2-3:
 
