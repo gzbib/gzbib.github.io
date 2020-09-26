@@ -61,6 +61,9 @@ Note that this was the easy way to *create* your website, but it does come at a 
 .gs-intro p {
      line-height: 1.6
      padding-bottom: 30px ;
+     font-style: bold;
+     font-size: 35px;
+     font-family: Arial;
 }
 
 </style>
