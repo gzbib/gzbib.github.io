@@ -99,7 +99,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
      font-size: 20px;
      font-family:sans-serif;
      font-weight: lighter;
-     text-decoration: blink;
+   
 }
 
 </style>
@@ -142,6 +142,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
      font-family: Helvetica;
      text-align:left;
      font-style: italic;
+     text-decoration: underline;
 }
 
 </style>
