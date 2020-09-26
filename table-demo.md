@@ -33,6 +33,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <a href="https://github.com/DS4PS/barebones-jekyll/blob/master/_layouts/liquid-table.html" target = "_blank"> 
         
-</a>
-
 <hr>
