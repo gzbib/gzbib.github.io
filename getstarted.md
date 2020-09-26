@@ -133,7 +133,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
 .gs-intro-title {
      font-size: 35px;
      font-family: Helvetica;
-     text-align:center;
+     text-align:justify;
      font-style: italic;
 }
 
