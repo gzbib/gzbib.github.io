@@ -4,10 +4,12 @@ Build your WEBSITE
 
 </div>
 
-<div class="gs-intro" markdown="1">
-
-
+<div class="gs-intro-title" markdown="1">
 Getting started is *literally* as easy as 1-2-3:
+</div>
+
+
+<div class="gs-intro" markdown="1">
 
 Scroll down to see 
 the steps involved, but here is a 40-second video just as a reference as you work through the steps. If you don't already have a [GitHub account](https://github.com/join), you'll need to sign up.
@@ -118,5 +120,19 @@ Note that this was the easy way to *create* your website, but it does come at a 
 
 </style>
 
+
+<style>
+
+.gs-intro-title { 
+     color: white }
+
+.gs-intro-title {
+     font-size: 35px;
+     font-family: Helvetica;
+     text-align:center;
+     font-style: italic;
+}
+
+</style>
 
 
