@@ -56,13 +56,14 @@ Note that this was the easy way to *create* your website, but it does come at a 
      padding-left: 10px;
      padding right: 30px;
      text-align: left;
+     color:black;
      }
 
 .gs-intro p {
      line-height: 1.6
      padding-bottom: 30px ;
      font-style: bold;
-     font-size: 35px;
+     font-size: 30px;
      font-family: Arial;
 }
 
